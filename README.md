@@ -16,6 +16,12 @@ An API handling chess moves.
     $ npm install
     ```
 
+-   create a .env file
+    ```shell
+    $ cp .env.example .env
+    ```
+    setup environmental variables in .env
+
 ## Run server
 
     ```shell
